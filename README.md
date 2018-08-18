@@ -128,13 +128,6 @@ but the result directly contains the desired path.
 Also, as a reminder, it is easiest to work with the head of a list, and this fact may 
 influence your implementation of paths.
 
-## Submission
-
-Your repository will be cloned on the Sunday prior to the start of the Spring term. 
-You should ensure you have a rich `commit` history for the repository 
-(don't write all the code and then `commit` it).
-
-
 ## Acknowledgements
 
 This exercise was developed from an original idea and specification by David Matuszek.
